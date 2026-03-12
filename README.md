@@ -1,4 +1,4 @@
-# Projet_Regression_NYC
+# Projet Scoring & prédiction de prix immobilier
 
 Le projet vise à concevoir un modèle de machine learning produisant un score de valorisation immobilière pour détecter anomalies et opportunités d’investissement, tout en mettant en œuvre une démarche data science complète, reproductible et orientée décision métier.
 
